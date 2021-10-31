@@ -12,6 +12,10 @@ Or if face is not matched, the output will display as "Unknown".
 
 In the end, User will have to give email id in which the attendance file will be sent.
 
+## Flow Chart :
+
+![image](https://user-images.githubusercontent.com/88768050/139586669-9bd6d5da-5492-4d24-910d-b8466226b468.png)
+
 ## Output :
 1. Dataset :
 
