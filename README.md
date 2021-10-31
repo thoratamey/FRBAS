@@ -33,7 +33,7 @@ In the end, User will have to give email id in which the attendance file will be
  
 4. Mail Sent :
 
-![image](https://user-images.githubusercontent.com/88768050/139574693-63e3eb03-eee2-474d-bc5a-9514df86aa25.png)
+![image](https://user-images.githubusercontent.com/88768050/139574996-6b43f2a4-a278-47b6-8f37-d00562eae91f.png)
 
 5. Mail Received :
 
