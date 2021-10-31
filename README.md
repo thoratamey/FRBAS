@@ -1,5 +1,5 @@
 # Face-Recognition-Based-Attendance-System
-This is Final Mini Project of SEM 5 as Student at Vidayalankar Insitute Of Technology, University of Mumbai.
+This is Mini Project(Subject) of SEM 5 as Student at Vidayalankar Insitute Of Technology, University of Mumbai.
 
 ## About Project :
 This is project is based on attendance system in which attendance is marked by Face Recognition.
