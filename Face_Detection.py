@@ -162,7 +162,7 @@ print("Attendance is registered Successful!\n")
 
 
 #Sending email using yagmail library with help of smtp
-yag=yagmail.SMTP('yash.patil1@vit.edu.in','Zxcos@6601' ,host='smtp.office365.com', port=587, smtp_starttls=True, smtp_ssl=False)
+yag=yagmail.SMTP('Emailid','Password' ,host='smtp.office365.com', port=587, smtp_starttls=True, smtp_ssl=False)
 
 #Make your account enable for less secure apps
 #Copy this for account enable :- https://www.google.com/settings/security/lesssecureapps
